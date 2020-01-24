@@ -16,4 +16,5 @@ According to National Crime Records Bureau (NCRB), it is estimated that more tha
 
 Combining the two, we have come up with an idea to safeguard the lives of our firefighters:
 This project is about a ‘Firefighting Robot’, which will automatically sense a fire, move towards it and douse it by pumping out water on it. 
+
 The main brain of this project is an Arduino UNO. In order to sense fire, we are using a fire sensor module (flame/fire sensor). We move the robot near the fire using DC motors, driven through a L298 motor driver module. Once it is near the fire, we put it out using water, which is carried in a container on top of the robot. The container also contains a pump to push out the water on the fire, through a tube.
