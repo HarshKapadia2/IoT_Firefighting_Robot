@@ -2,7 +2,7 @@
 
 ### Keywords
 
-IoT, Arduino UNO, Firefighting, Robot, Autonomous
+IoT, Arduino UNO, Firefighting, Robot, Automated
 
 ### Instructions
 
